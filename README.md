@@ -43,3 +43,24 @@ Las credenciales de conexión no están en el repositorio. Se leen desde un arch
 
 ## Autor
 [ALBORNOZ y 6TO E]
+
+# Ficha de declaración de IA
+
+## herramienta
+CloudeIA
+
+## proposito
+°Guía paso a paso para instalar y configurar XAMPP y Python.
+°Explicación de cómo conectar Python con MySQL.
+°Ayuda para entender los mensajes de error.
+°Estructura del README.
+
+## prompt utilizado
+acá están los archivos ejemplo y consigna de mi trabajo número 9, en base a mi trabajo número 8 y 7 puedes ayudarme a entender lo que debo realizar en el siguiente trabajo respetando las consignas? 
+
+## edicion
+Correcion de script SQL (los ;, Posicion, AUTO_INCREMENT).
+Repacion de errores: nombres de columnas, de tabla, sangría y nombres de funciones.
+
+## aprendizaje
+aprendí a como conectar el xampp con el vs code y la gran cantidad de diferencias que tiene a la hora de hacer que una base de datos funcione como los códigos obligatorio como el DELETE FROM __ WHERE __. ya que sin el where el delete borraría todo el código. 
