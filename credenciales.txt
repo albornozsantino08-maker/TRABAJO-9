@@ -1,0 +1,8 @@
+Credenciales de conexión - TP09 - [ALBORNOZ]
+Base de datos local (XAMPP / MySQL)
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=trabajo_7
+DB_USER=root
+DB_PASSWORD=
